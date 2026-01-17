@@ -1,0 +1,26 @@
+{
+    "asset": "ccfda94628bc7be4fb447cfc1e869f34",
+    "fileName": "019bbe84-29ee-7dbc-a056-1839073c0251.png",
+    "prompt": "“Cute capybara pixel art sprite, 2D, chibi proportions, soft pastel colors, rounded shapes, minimal details, friendly and calm expression.\nSide view, game-ready sprite, clean outline, consistent pixel size, no background, transparent background, suitable for a cozy indie game.”",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "fbc8945c61f190e65a515519427431ef",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 800,
+        "height": 1408
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
